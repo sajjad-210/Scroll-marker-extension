@@ -1,4 +1,5 @@
-📍 Website Scroll Marker
+📍 Website Scroll Marker:
+
 Website Scroll Marker is a lightweight and handy browser extension (or script) that lets users mark a scroll position on any webpage and return to it later with a single click. Perfect for long articles, research, or scrolling-heavy websites!
 
 🚀 Features:
